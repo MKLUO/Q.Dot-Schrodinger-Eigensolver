@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>369f8244-10a1-4d79-bf45-77d0e7299c71</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>DoubleQDot.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="DoubleQDot.py" />
+    <Compile Include="main.py" />
     <Compile Include="Potential.py">
       <SubType>Code</SubType>
     </Compile>
